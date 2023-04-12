@@ -2,4 +2,4 @@
 GAN model using Keras library for cryptocurrency forecasting.
 
 Currently only the baseline model is uploaded.
-Training data from coinmarketcap and limited to date 2021-07-06.
+Training using yahoo finance API dataset.
